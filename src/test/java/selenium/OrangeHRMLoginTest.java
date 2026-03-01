@@ -10,6 +10,7 @@ package selenium;
 // B4: nhap du lieu, thao tac tren element
 // B5: Verify ket qua (expect, actual)
 // B6: Dong trinh duyet va giai phong tai nguyen
+//Note: phai nho cac step de tao test case day du va co the chay duoc tren moi moi truong, khong phu thuoc vao thao tac tay, thoi gian load trang,...
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
