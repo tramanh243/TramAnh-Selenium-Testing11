@@ -25,7 +25,7 @@ public class ConfigUtils {
     }
 
     public static String getLoginUrl() {
-        return CONFIG.getProperty("login.url", "");
+        return CONFIG.getProperty("login.url", "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
     }
 
     public static String getUsername() {
